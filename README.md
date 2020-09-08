@@ -1,0 +1,2 @@
+# IITH-Arwain
+This app is solely used for IIT HYD and this idea can be extended to any other institution.Its an easy to use android app that saves you time and keeps you updated with your courses ongoing and upcoming events and seminars with additional features of personalised calender,quick access to cab sharing,organised notification box etc... In short it assists and helps us co ordinate our daily schedule.
